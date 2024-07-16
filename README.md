@@ -6,7 +6,7 @@ In this project we focus on analysing the traffic density using computer vision 
 
 Contributors:
 
-Ajayraj M
-Praveen N
-Reshiha R G
-T Vinay Kumar
+Ajayraj M |
+Praveen N |
+Reshiha R G |
+T Vinay Kumar |
