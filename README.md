@@ -10,3 +10,9 @@ Ajayraj M |
 Praveen N |
 Reshiha R G |
 T Vinay Kumar |
+
+
+Datasets referred:
+
+1.  https://www.kaggle.com/datasets/yusufberksardoan/traffic-detection-project
+2.  https://www.kaggle.com/datasets/farzadnekouei/top-view-vehicle-detection-image-dataset
